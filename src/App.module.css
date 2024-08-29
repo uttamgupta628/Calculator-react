@@ -1,0 +1,25 @@
+.container{
+    border: 2px solid rgba(27, 25, 25, 0.285);
+    max-width:300px;
+    background-color: rgba(0, 0, 0, 0.478);
+    margin:auto;
+    margin-top: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .input{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    flex: auto;
+  }
+  input{
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+  }
+  .heading{
+    text-align: center;
+    flex: auto;
+  }
+  
